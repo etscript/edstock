@@ -1,0 +1,23 @@
+CHANGES
+=======
+
+* optimization of delete user
+* Building a Relationship bewteen user and telephone
+* some optimization
+* Update README.md
+* some optimization
+* Implement database service delete user
+* Implement database service modify user
+* Implement data service   add users
+* Implement data service   get all users and get user by user_id
+* Implement database service
+* Init database
+* Implement  DELETE /v1/users/ 删除一个用户
+* Implement  PUT /v1/users/ 修改一个用户的详细信息
+* Implement  GET /v1/users/ 获取一个特定用户的详细信息
+* Implement  POST /v1/users 创建一个用户
+* Implement  GET /v1/users  : 获取所有用户的列表
+* add   log   service
+* Init  Service
+* Init basic framework of the application
+* Initial commit

@@ -1,0 +1,21 @@
+Metadata-Version: 1.1
+Name: pythonwebdemo
+Version: 0.0.1.dev19
+Summary: Web Application Demo
+Home-page: UNKNOWN
+Author: luckylau
+Author-email: laujunbupt0913@163.com
+License: UNKNOWN
+Description: ## Python pecan web demo 
+        本项目是基于pecan搭建的web框架，涉及sqlalchemy操作数据库，实现了增删改查的所有功能.
+        
+        
+Platform: UNKNOWN
+Classifier: Environment :: Web Environment
+Classifier: Intended Audience :: Information Technology
+Classifier: Intended Audience :: Python-web Developer
+Classifier: License :: OSI Approved :: GNU General Public License v2 (GPLv2)
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.7
